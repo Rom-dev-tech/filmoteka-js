@@ -3,7 +3,7 @@ import toastr from 'toastr';
 import tosrtOption from './toastr';
 
 axios.defaults.baseURL = 'https://api.themoviedb.org/3/';
-export const API__KEY = 'api_key=16092738eabd8acc3b7b5db91d1d6d26';
+export const API__KEY = 'api_key=7a4908c0d129fab96cd8dd64f9afaadf';
 
 // You can find examples of how functions work in the file "test-mosalov.js"
 export default class RequestService {
