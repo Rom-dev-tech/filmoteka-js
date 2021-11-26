@@ -1,4 +1,4 @@
-# Parcel boilerplate
+# Parcel boilerplate - Team Project
 
 ## Скрытые файлы
 
